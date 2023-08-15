@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yan-Ting Chen"
 title_separator          : "-"
 name                     : &name "Yan-Ting Chen"
-description              : &description "PhD student at McGill Universityy"
+description              : &description "PhD student at McGill University"
 url                      : https://ytingchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
