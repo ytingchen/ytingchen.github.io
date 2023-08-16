@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,8 +18,8 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 <br/>
 
-### Refereed Publications
-
+Refereed Publications
+------
 **Chen, Y.-T.**, Y. Huang, and T. M. Merlis (2023). The global patterns of instantaneous CO<sub>2</sub> forcing at the top-of-atmosphere and surface. *J. Climate*, in press, doi:10.1175/JCLI-D-22-0708.1.  [**Official version**](https://doi.org/10.1175/JCLI-D-22-0708.1)
 
 **Chen, Y.-T.**, and C.-M. Wu (2019). The role of interactive SST in the cloud-resolving simulations of aggregated convection. *J. Adv. Model. Earth Syst.*, **11**, 3321-3340. doi:10.1029/2019MS001762.  [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001762)
