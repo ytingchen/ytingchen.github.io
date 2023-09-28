@@ -21,7 +21,7 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 
 ## Publications
-* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang. The cause of negative CO<sub>2</sub> forcing at the top-of-atmosphere: the role of stratospheric vs. tropospheric temperature inversions (submitted).
+* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang. The cause of negative CO<sub>2</sub> forcing at the top-of-atmosphere: the role of stratospheric vs. tropospheric temperature inversions (submitted). [**Preprint**](https://essopenarchive.org/users/539697/articles/667745-the-cause-of-negative-co2-forcing-at-the-top-of-atmosphere-the-role-of-stratospheric-vs-tropospheric-temperature-inversions)
 
 * **Chen, Y.-T.**, Y. Huang, and T. M. Merlis (2023). The global patterns of instantaneous CO<sub>2</sub> forcing at the top-of-atmosphere and surface. *J. Climate*, **36**, 6331–6347. doi:10.1175/JCLI-D-22-0708.1.  [**Official version**](https://doi.org/10.1175/JCLI-D-22-0708.1)
 
