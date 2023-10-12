@@ -14,8 +14,6 @@ Broadly, I'm interested in radiation and climate change. Radiation and climate d
 
 Prior to studying at McGill, I got a master's degree at National Taiwan University, where I worked with [Prof. Chien-Ming Wu](http://lcdm.as.ntu.edu.tw/) and studied the coupling of sea surface temperature, convection, radiation, and circulation with a cloud-resolving model. 
 
-Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io/blob/master/files/cv.pdf) in PDF.
-
 <br/>
 
 Refereed Publications
