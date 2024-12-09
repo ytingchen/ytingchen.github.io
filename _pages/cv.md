@@ -8,12 +8,14 @@ redirect_from:
 ---
 Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io/blob/master/files/cv.pdf) in PDF.
 
+## Appointment
+* Postdoctoral Research Associate, Program in Atmospheric and Oceanic Sciences, Princeton University, NJ, USA. 2024~current. <br>
+
 ## Education
 
-* **PhD in Atmospheric and Oceanic Sciences**, McGill University, Montreal, Canada. 2019-present. <br>
+* **PhD in Atmospheric and Oceanic Sciences**, McGill University, Montreal, Canada. 2019-2024. <br>
   Supervisors: Prof. Yi Huang and Dr. Timothy Merlis
   * **Visiting Student Research Collaborator**, Program in Atmospheric and Oceanic Sciences, Princeton University, NJ, USA. 08/2023 - 07/2024. <br>
-  Host: Prof. Stephan Fueglistaler   
 * **MSc in Atmospheric Sciences**, National Taiwan University, Taipei, Taiwan. 2018. <br>
   Supervisor: Prof. Chien-Ming Wu
   
@@ -21,6 +23,9 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 
 ## Publications
+
+* Merlis, T. M., I. Guendelman, K.-Y. Cheng, L. Harris, **Y.-T. Chen**, C. S. Bretherton, M. Bolot, L. Zhou, A. Kaltenbaugh, S. K. Clark, and S. Fueglistaler, 2024: The vertical structure of tropical temperature change in global storm-resolving model simulations of climate change. *Geophysical Research Letters*, in press.
+
 * **Chen, Y.-T.**, T. M. Merlis, and Y. Huang. The cause of negative CO<sub>2</sub> forcing at the top-of-atmosphere: the role of stratospheric vs. tropospheric temperature inversions. *Geophysical Research Letters*, **51**, e2023GL106433, doi:10.1029/2023GL106433. [**Official version**](https://doi.org/10.1029/2023GL106433)
 
 * **Chen, Y.-T.**, Y. Huang, and T. M. Merlis (2023). The global patterns of instantaneous CO<sub>2</sub> forcing at the top-of-atmosphere and surface. *J. Climate*, **36**, 6331–6347. doi:10.1175/JCLI-D-22-0708.1.  [**Official version**](https://doi.org/10.1175/JCLI-D-22-0708.1)
