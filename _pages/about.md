@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Dept. Atmospheric and Oceanic Sciences at McGill University, working with [Dr. Timothy Merlis](https://timothymerlis.com/) and [Prof. Yi Huang](https://huanggroup.wordpress.com/). I'm currently visiting the Program in Atmospheric and Oceanic Sciences at Princeton University, hosted by [Prof. Stephan Fueglistaler](https://fueglistaler.princeton.edu/).
+I am a climate physicist with solid training in radiative transfer connecting quantum-scale spectroscopy to atmospheric processes and climate responses to various external forcings. My research covers radiation and climate dynamics. I approach research questions using various tools including radiative transfer models, idealized cloud-resolving models, and comprehensive climate models.
 
-Broadly, I'm interested in radiation and climate change. Radiation and climate dynamics are conventionally viewed as different areas of research, but the intersection of these disciplines has emerged as a key to understanding climate change in response to greenhouse gas emissions. My previous works focus on the radiative effect of CO<sub>2</sub> emission, in which I assessed the intrinsic variability of CO<sub>2</sub> radiative forcing and reconciled different schools of theoretical thought.
+Currently, I am a postdoctoral research associate in the Program in Atmospheric and Oceanic Sciences at Princeton University, working with [Prof. Stephan Fueglistaler](https://fueglistaler.princeton.edu/) and [Dr. Timothy Merlis](https://timothymerlis.com/) on tropical atmosphere-ocean coupled dynamics with a high-resolution GFDL coupled model, CM4X.
 
-Prior to studying at McGill, I got a master's degree at National Taiwan University, where I worked with [Prof. Chien-Ming Wu](http://lcdm.as.ntu.edu.tw/) and studied the coupling of sea surface temperature, convection, radiation, and circulation with a cloud-resolving model. 
+I obtained my PhD from the Department of Atmospheric and Oceanic Sciences at McGill University, working with [Prof. Yi Huang](https://huanggroup.wordpress.com/) and [Dr. Timothy Merlis](https://timothymerlis.com/) with a focus on the radiative forcing and rapid adjustments of greenhouse gases. Prior to studying at McGill, I got a master's degree at National Taiwan University, where I studied the coupling of sea surface temperature, convection, radiation, and circulation with a cloud-resolving model. 
 
 <br/>
+
+
+<!---
 
 Refereed Publications
 ------
@@ -23,3 +26,5 @@ Refereed Publications
 **Chen, Y.-T.**, Y. Huang, and T. M. Merlis (2023). The global patterns of instantaneous CO<sub>2</sub> forcing at the top-of-atmosphere and surface. *J. Climate*, **36**, 6331–6347, doi.org/10.1175/JCLI-D-22-0708.1.  [**Official version**](https://doi.org/10.1175/JCLI-D-22-0708.1)
 
 **Chen, Y.-T.**, and C.-M. Wu (2019). The role of interactive SST in the cloud-resolving simulations of aggregated convection. *J. Adv. Model. Earth Syst.*, **11**, 3321-3340. doi:10.1029/2019MS001762.  [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001762)
+
+-->
