@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io/blob/master/files/cv.pdf) in PDF.
+Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io/blob/master/files/cv.pdf) and ongoing projects in PDF.
 
 ## Appointment
 * Postdoctoral Research Associate, Program in Atmospheric and Oceanic Sciences, Princeton University, NJ, USA. 2024~current. <br>
