@@ -24,7 +24,7 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 ## Publications
 
-* Merlis, T. M., I. Guendelman, K.-Y. Cheng, L. Harris, **Y.-T. Chen**, C. S. Bretherton, M. Bolot, L. Zhou, A. Kaltenbaugh, S. K. Clark, and S. Fueglistaler, 2024: The vertical structure of tropical temperature change in global storm-resolving model simulations of climate change. *Geophysical Research Letters*, in press.
+* Merlis, T. M., I. Guendelman, K.-Y. Cheng, L. Harris, **Y.-T. Chen**, C. S. Bretherton, M. Bolot, L. Zhou, A. Kaltenbaugh, S. K. Clark, and S. Fueglistaler, 2024: The vertical structure of tropical temperature change in global storm-resolving model simulations of climate change. *Geophysical Research Letters*, **51**, e2024GL111549, doi:10.1029/e2024GL111549. [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL111549)
 
 * **Chen, Y.-T.**, T. M. Merlis, and Y. Huang. The cause of negative CO<sub>2</sub> forcing at the top-of-atmosphere: the role of stratospheric vs. tropospheric temperature inversions. *Geophysical Research Letters*, **51**, e2023GL106433, doi:10.1029/2023GL106433. [**Official version**](https://doi.org/10.1029/2023GL106433)
 
