@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yan-Ting Chen"
 title_separator          : "-"
 name                     : &name "Yan-Ting Chen"
-description              : &description "PhD candidate at McGill University"
+description              : &description "Postdoctoral Research Associate at Princeton University"
 url                      : https://ytingchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yan-Ting Chen"
-  avatar           : "profile01.jpg"
+  avatar           : "profile02.jpg"
   bio              : ""
   location         : "Princeton, NJ"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=DTfvdwcAAAAJ&hl"
-  email            : "yan-ting.chen@mail.mcgill.ca"
+  email            : "ytingchen@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
