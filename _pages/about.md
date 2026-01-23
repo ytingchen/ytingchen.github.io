@@ -22,6 +22,10 @@ I obtained my PhD from the Department of Atmospheric and Oceanic Sciences at McG
 Refereed Publications
 ------
 
+* **Chen, Y.-T.**, T. M. Merlis, T. Dinh, S. M. Griffies, J. Krasting, R. Dussin, N. Zadeh, and S. A. Fueglistaler. Assessing the variability of Earth's energy imbalance trend in the early 21<sup>st</sup>  century in two high-resolution coupled models. Submitted. [**Preprint**](https://essopenarchive.org/users/1010494/articles/1370617-assessing-earth-s-energy-imbalance-trend-in-the-early-21st-century-in-two-high-resolution-coupled-models)
+
+* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang. Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. Submitted.
+
 * Merlis, T. M., I. Guendelman, K.-Y. Cheng, L. Harris, **Y.-T. Chen**, C. S. Bretherton, M. Bolot, L. Zhou, A. Kaltenbaugh, S. K. Clark, and S. Fueglistaler, 2024: The vertical structure of tropical temperature change in global storm-resolving model simulations of climate change. *Geophysical Research Letters*, **51**, e2024GL111549, doi:10.1029/e2024GL111549. [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL111549)
 
 **Chen, Y.-T.**, T. M. Merlis, and Y. Huang (2024). The cause of negative CO<sub>2</sub> forcing at the top-of-atmosphere: the role of stratospheric vs. tropospheric temperature inversions. *Geophysical Research Letters*, **51**, e2023GL106433, doi:10.1029/2023GL106433. [**Official version**](https://doi.org/10.1029/2023GL106433)
