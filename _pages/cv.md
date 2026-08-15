@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io/blob/master/files/cv.pdf) and ongoing projects in PDF.
+Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io/blob/master/files/cv.pdf).
 
 ## Appointment
 * Postdoctoral Research Associate, Program in Atmospheric and Oceanic Sciences, Princeton University, NJ, USA. 2024~current. <br>
@@ -24,7 +24,7 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 ## Publications
 
-* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang. Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. In revision. [**Preprint**](https://essopenarchive.org/doi/full/10.22541/essoar.15001792/v1)
+* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang (2026). Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. Accepted for *Science Advances*. 
 
 * Bushuk, M., D. B. Bonan, S. M. Griffies, W. Gregory, Y. Zhang, B. Hurlin, **Y.-T. Chen**, T. Rackow, and H.F. Goessling (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. In press. *Geophysical Research Letters*, **53**, e2026GL124043, doi:10.1029/e2026GL124043. 
 
