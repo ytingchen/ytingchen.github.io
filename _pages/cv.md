@@ -24,9 +24,9 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 ## Publications
 
-* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang (2026). Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. Accepted for *Science Advances*. 
+* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang (2026). Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. In press for *Science Advances*. 
 
-* Bushuk, M., D. B. Bonan, S. M. Griffies, W. Gregory, Y. Zhang, B. Hurlin, **Y.-T. Chen**, T. Rackow, and H.F. Goessling (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. In press. *Geophysical Research Letters*, **53**, e2026GL124043, doi:10.1029/e2026GL124043. 
+* Bushuk, M., D. B. Bonan, S. M. Griffies, W. Gregory, Y. Zhang, B. Hurlin, **Y.-T. Chen**, T. Rackow, and H.F. Goessling (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. *Geophysical Research Letters*, **53**, e2026GL124043, doi:10.1029/e2026GL124043. [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026GL124043)
 
 * **Chen, Y.-T.**, T. M. Merlis, T. Dinh, S. M. Griffies, J. Krasting, R. Dussin, N. Zadeh, and S. A. Fueglistaler (2026). Assessing the variability of Earth's energy imbalance trend in the early 21<sup>st</sup> century in two high-resolution coupled models. *Geophysical Research Letters*, **53**, e2025GL121277, doi:10.1029/e2025GL121277. [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL121277)
 
