@@ -24,7 +24,7 @@ Check here for my [**full CV**](https://github.com/ytingchen/ytingchen.github.io
 
 ## Publications
 
-* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang (2026). Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. In press for *Science Advances*. 
+* **Chen, Y.-T.**, T. M. Merlis, and Y. Huang (2026). Instantaneous atmospheric forcing differentiates tropical high-cloud adjustments across greenhouse gases. *Science Advances*, **12**, eaef7462, doi:10.1126/sciadv.aef7462. [**Official version**](https://www.science.org/doi/10.1126/sciadv.aef7462)
 
 * Bushuk, M., D. B. Bonan, S. M. Griffies, W. Gregory, Y. Zhang, B. Hurlin, **Y.-T. Chen**, T. Rackow, and H.F. Goessling (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. *Geophysical Research Letters*, **53**, e2026GL124043, doi:10.1029/e2026GL124043. [**Official version**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026GL124043)
 
